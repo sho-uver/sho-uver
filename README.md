@@ -24,3 +24,6 @@ iOS:https://apps.apple.com/jp/app/%E3%82%86%E3%81%B3%E3%83%9C%E3%83%B3%E3%83%90%
 ・Procreate<br>
 ・GarageBand<br>
 ・ChatGPT<br>
+・Playfab
+・Google admob
+
