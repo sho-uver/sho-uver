@@ -81,3 +81,13 @@
 - 上級バーチャルリアリティ技術者 取得(2023/1)
 - Python3 エンジニア認定基礎試験 合格(2024/1)
 - 色彩検定2級 合格(2024/7)
+
+#自作PCスペック
+パーツカテゴリ	製品名・スペック
+CPU	Intel Core i5-14400F（2.5GHz / 10コア）
+GPU	NVIDIA GeForce RTX 4060
+マザーボード	ASUS TUF GAMING B760-PLUS WIFI D4
+CPUクーラー	虎徹改 MUGEN6（空冷）
+メモリ	Corsair VENGEANCE LPX 32GB（16GB×2 / DDR4-3200）
+ストレージ	WD Black SN850X NVMe SSD
+電源ユニット	MSI MAG A750GL PCIE5（750W / GOLD）
